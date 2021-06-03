@@ -23,7 +23,7 @@ func main() {
 ```
 - output
 
-![colors]("colors.png")
+<img src="colors.png"/>
 
 ---
 ### formats
@@ -47,4 +47,4 @@ func main() {
 
 - output
 
-![formats]("format.gif")
+<img src="format.gif"/>
