@@ -3,6 +3,12 @@
 golang string colorize package
 
 ---
+####
+**get**
+```
+go get -u github.com/polarspetroll/gocolor
+```
+
 - [Documentation]("#")
 
 - [Examples](https://github.com/polarspetroll/gocolor/tree/main/examples)
