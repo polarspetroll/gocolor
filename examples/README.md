@@ -1,4 +1,4 @@
-### Colorse
+### Colors
 
 
 ```go
