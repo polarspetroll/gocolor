@@ -3,9 +3,9 @@
 golang string colorize package
 
 ---
-- [Documentation]("document/")
+- [Documentation]("#")
 
-- [Examples]("examples/")
+- [Examples](https://github.com/polarspetroll/gocolor/tree/main/examples)
 ---
 
 ### colors
