@@ -1,13 +1,19 @@
 ## functions
 
 [func Colorize(str *string, color, format string)](#Colorize)
+
 [func ColorizeText(str *string, color, format string)](#ColorizeText)
+
 [func SetColor(color, format string)](#SetColor)
+
 [func ColorString(str, color, format string ) string ](#ColorString)
+
 
 ## variables
 [var colors map[string]string](#colors)
+
 [var mode map[string]string](#modes)
+
 
 
 ---
