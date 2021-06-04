@@ -9,7 +9,7 @@ golang string colorize package
 go get -u github.com/polarspetroll/gocolor
 ```
 
-- [Documentation]("#")
+- [Documentation](https://github.com/polarspetroll/gocolor/tree/main/documents)
 
 - [Examples](https://github.com/polarspetroll/gocolor/tree/main/examples)
 ---
